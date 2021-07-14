@@ -1,4 +1,4 @@
 server:
-  port=8085
+  port:8085
 spring:
   message:hi i am in first microservice
