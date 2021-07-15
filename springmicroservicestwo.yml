@@ -1,2 +1,4 @@
 spring:
   message: hey i am in second microservice
+server:
+  port: 8087
